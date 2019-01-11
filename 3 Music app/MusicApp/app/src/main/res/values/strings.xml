@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="category_musicList">Music List</string>
+    <string name="category_search">Search on music Library</string>
+    <string name="category_main">Music App </string>
+    <string name="back">Back to the main view</string>
+    <string name="searchTxt">This view allow the user search by song title or artist</string>
+    <string name="musicListTxt">This view aim to list all songs using MediaPlayerControl"/></string>
+    <string name="mainTxt">This view show the music list and the search view</string>
+</resources>

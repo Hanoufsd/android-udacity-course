@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="desc">Iphady owns and operates an online store that provides apple supplies and accessories.The company was founded in 2011 and is based in Saudi Arabia.  As of November 3, 2014, Iphady operates as a subsidiary of Al-Falak Electronic Equipment and Supplies Company. </string>
+    <string name="details">For more info, visit the website </string>
+    <string name="link_d">https://iphady.com</string>
+
+</resources>

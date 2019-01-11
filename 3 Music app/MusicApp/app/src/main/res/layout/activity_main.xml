@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="andriodproject.musicapp.MainActivity">
+
+    <TextView
+        android:id="@+id/main_title"
+        style="@style/txtViewStyle"
+        android:text="@string/mainTxt" />
+
+    <Button
+        android:id="@+id/category_musicList"
+        style="@style/CategoryStyle"
+        android:background="@color/category_color2"
+        android:text="@string/category_musicList" />
+
+    <Button
+        android:id="@+id/category_search"
+        style="@style/CategoryStyle"
+        android:background="@color/category_color"
+        android:text="@string/category_search" />
+
+</LinearLayout>
+

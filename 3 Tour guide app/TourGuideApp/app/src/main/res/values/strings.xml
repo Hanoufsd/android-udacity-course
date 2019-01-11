@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="malls_category">Mall</string>
+    <string name="events_category">Event</string>
+    <string name="top_sights_category">Top Sight</string>
+    <string name="restaurants_category">Foods</string>
+
+    <string name="topSight_1"> Masmak fort </string>
+    <string name="topSight_1_description">The Masmak is a clay and mud-brick fort, with four watchtowers and thick walls, founded on stone blocks, lying in the center of Riyadh, in the old quarters</string>
+    <string name="topSight_2"> National Museum of Saudi Arabia</string>
+    <string name="topSight_2_description">The National Museum of Saudi Arabia is a major national museum in Saudi Arabia. Established in 1999, it is part of the King Abdulaziz Historical Centre in Riyadh. </string>
+    <string name="topSight_3">Royal Saudi Air Force Museum</string>
+    <string name="topSight_3_description">The Royal Saudi Air Force Museum or Saqr Al-Jazira is located on the East Ring Road of Riyadh between exits 10 and 11. A Saudia Lockheed L-1011 Tristar serves as a gateguard visible from the ring road. </string>
+    <string name="topSight_4">Salaam Park Riyadh </string>
+    <string name="topSight_4_description">It is one of the natural elements for Riyadh City Center in Qasr Al Hokm area (Rule Palace), heart of Riyadh and its historical and heritage center that witnessed the start of march to the foundation of the modern Saudi State. </string>
+    <string name="topSight_5">Riyadh Zoo </string>
+    <string name="topSight_5_description">It is one of the most popular leisure facilities in Riyadh. The Zoo, first formed in 1957, was originally a small scale affair, consisting animals presented as gift to the first three kings of the kingdom. </string>
+
+    <string name="mall_1">Kingdom Centre Tower</string>
+    <string name="mall_1_address">2239 Al Urubah Rd, Al Olaya, Riyadh 12214-9597</string>
+    <string name="mall_2"> Al Nakheel Mall </string>
+    <string name="mall_2_address"> 2976 Al Imam Saud Ibn Abdul Aziz Branch Rd, Al Mughrizat, Riyadh 12483</string>
+    <string name="mall_3"> Hayat Mall</string>
+    <string name="mall_3_address"> King Abdul Aziz Rd, King Fahd, Riyadh 12272 </string>
+    <string name="mall_4">Sahara Plaza </string>
+    <string name="mall_4_address">Central, King Abdullah Road, Riyadh 11333</string>
+    <string name="mall_5"> Al Faisaliyah Center  </string>
+    <string name="mall_5_address"> Al Amiriyah, Al Olaya, King Fahd Road, Riyadh 12212, Riyadh 12212</string>
+
+
+    <string name="res_1">Lusin </string>
+    <string name="res_2">Elements</string>
+    <string name="res_3">Tao</string>
+    <string name="res_4">Nozomi</string>
+    <string name="res_5">Entrecote</string>
+
+    <string name="event_1">King Abdulaziz Camel Festival (19 March &#8211; 15 April) </string>
+    <string name="event_1_description">King Abdulaziz Festival Camels Competition, often referred to as Miss Camel globally, is an annual heritage festival held in Rimah, a governorate in Riyadh province. It was founded in 1999 by a group of local Bedouins who decided to host a competition for the most beautiful camel.</string>
+    <string name="event_2"> Misk Art (4 &#8211;7 April)</string>
+    <string name="event_2_description"> A festival that combines visual arts and aims to support the local Saudi community in its artistic experience and help it to highlight and develop it.</string>
+    <string name="event_3">Taste of Riyadh (6&#8211;8 April)</string>
+    <string name="event_3_description">This family-focused event aims to provide some exposure to small business owners. Visitors can enjoy a festive atmsophere as they browse numerous local fashion boutiques, technology booths and delicious food trucks.</string>
+    <string name="event_4"> Rider Champion (8 April)</string>
+    <string name="event_4_description">A professional competitive event for motorcycle "free style" </string>
+    <string name="event_5"> Complex Art Show (13&#8211;15 April) </string>
+    <string name="event_5_description">"The first of its kind in Saudi Arabia, this event will showcase the work of a large number of contemporary artists.
+        The word ""complex"" refers to the aim of the show - to integrate the values of ideas, skills, professionalism and quality. </string>
+
+
+</resources>
